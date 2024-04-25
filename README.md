@@ -1,5 +1,5 @@
 # Rosace-en-Python
-Programmes Python qui trace des rosaces ou d'autres types de formes moins régulière utilisant des cosinus et sinus. 
+Programmes Python qui tracent des rosaces ou d'autres types de formes moins régulière utilisant des cosinus et sinus. 
 Le programme trace la courbe au cour du temps sur un canvas.
 On peut s'amuser à changer les paramètres pour découvrir de nouvelle courbe!
 Le programme est plûtot simple, mais satisfaisant : On a la curosité de savoir quel sera 
